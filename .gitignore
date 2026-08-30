@@ -1,0 +1,17 @@
+# Collected data (fetched live from the MusicBrainz API)
+artist_data.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
