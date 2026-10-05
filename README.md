@@ -11,7 +11,7 @@
 
 Coursework project — BSc in Applied Data Science, Universitat Oberta de Catalunya (UOC), Data Visualization course.
 
-> Notebook narrative is in Spanish.
+> Notebook narrative translated to English from the original Spanish; printed outputs and figure labels are shown as originally executed (in Spanish).
 
 ## Objective
 
@@ -55,7 +55,7 @@ The MusicBrainz API [requires an identifying `User-Agent` header](https://musicb
 
 ```
 musicbrainz-collab-graphs/
-├── musicbrainz_collab_graphs.ipynb   # API data collection + graph visualizations (narrative in Spanish)
+├── musicbrainz_collab_graphs.ipynb   # API data collection + graph visualizations (narrative in English)
 ├── requirements.txt
 └── README.md
 ```
